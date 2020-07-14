@@ -1,4 +1,4 @@
-# 3DES-Crypto-Maki
+# 3DES-Crypto-Maki [completed]
 <i>Implementation of 3DES in Python, can encrypt plaintext</i>
 <hr>
 <h4>About</h4>
