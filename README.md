@@ -12,5 +12,6 @@ It only currently encrypts, but any 3DES decrypter given the key and cipher text
 Can be used for cryptographic projects, but at own risk.  <br>
 Python secrets module for used to create cryptographically strong random numbers/ bits for use as initial key.<br>
 Key Size are 64bits * 3, and block size of 64bits of plain text can be encrypted at a time.  <br>
+<hr>
 Inspiration from Lectures from Christof Paar,  <br>
 Michael Peres<br>
