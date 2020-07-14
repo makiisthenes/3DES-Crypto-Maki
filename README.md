@@ -13,5 +13,5 @@ Can be used for cryptographic projects, but at own risk.  <br>
 Python secrets module is used to create cryptographically strong random numbers/ bits for use as initial key.<br>
 Key Size are 64bits * 3, and block size of 64bits of plain text can be encrypted at a time.  <br>
 <hr>
-Inspiration from Lectures from Christof Paar,  <br>
+Inspiration from Lectures by Christof Paar,  <br>
 Michael Peres<br>
