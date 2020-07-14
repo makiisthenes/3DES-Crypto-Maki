@@ -7,10 +7,10 @@ AES is the new standard currently. However DES is still used but in a triple imp
 3DES is used in some ePassports and other Hardware Constraint CryptoSystems.<br>
 <hr>
 <h4>Usage and Credits</h4>
-I created a python implementation of 3DES which is valid 3DES cipher.  <br>
+I created a python implementation of 3DES which is valid 3DES encryptor.  <br>
 It only currently encrypts, but any 3DES decrypter given the key and cipher text can decrypt messages.  <br>
 Can be used for cryptographic projects, but at own risk.  <br>
-Python secrets module for used to create cryptographically strong random numbers/ bits for use as initial key.<br>
+Python secrets module is used to create cryptographically strong random numbers/ bits for use as initial key.<br>
 Key Size are 64bits * 3, and block size of 64bits of plain text can be encrypted at a time.  <br>
 <hr>
 Inspiration from Lectures from Christof Paar,  <br>
